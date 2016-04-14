@@ -1,2 +1,14 @@
 # my-vim-config
-my vim configs
+
+## Step 1. 
+replace 'vi' to 'vim'
+Install [Vundle.vim](https://github.com/VundleVim/Vundle.vim)
+
+## Step 2.
+run command on vim :PluginSearch indent-guides
+
+## Step 3.
+modify ~/.vimrc to this.
+
+
+:)
